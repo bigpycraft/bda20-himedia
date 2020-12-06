@@ -1,10 +1,10 @@
 
-# BigData Science Practical Training Course
+# HiMedia Academy, 2020
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
 
-## SBA 2019, Seoul Business Agency Innovation Growth Intensive Training
+## Bigdata Base Predictive Analysis Expert Course
 
 <img src="./images/img_main_front.png">
 
@@ -272,3 +272,4 @@
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
+
