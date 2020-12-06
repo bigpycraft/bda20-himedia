@@ -1,10 +1,10 @@
 
-# HiMedia Academy, 2020
+# Bigdata Base Predictive Analysis Expert Course, 2020
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
 
-## Bigdata Base Predictive Analysis Expert Course
+## HiMedia Academy
 
 <img src="./images/img_main_front.png">
 
@@ -12,7 +12,7 @@
 * [Homesite] : https://www.himedia.co.kr/
 * [Sharings] : https://github.com/bigpycraft/bda20-himedia
 * [Password] : bigpycraft20
-
+ 
 <hr>
 
 ## Data Anaylsys Programming
