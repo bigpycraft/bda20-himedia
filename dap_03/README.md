@@ -23,9 +23,6 @@
 <br/><br/>
 - 2-5. [DateTIme1              ][A2051]
 - 2-6. [Map, Filter, Reduce    ][A2101]
-<!--
-- 2-6. [MFR Quiz               ][A2113]
--->
 <br/><br/>
 - 2-7. [JSON Handle            ][A2200]
 - 2-8. [Regular Expression     ][A2300]
