@@ -27,6 +27,9 @@
 - 2-7. [JSON Handle            ][A2200]
 - 2-8. [Regular Expression     ][A2300]
 <br/><br/>
+- 3-1. [NumPy1                 ][B3100]
+- 3-2. [NumPy2                 ][B3120]
+<br/><br/>
 
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
