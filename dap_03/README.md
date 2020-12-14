@@ -37,7 +37,7 @@
 - 5-2. [Excel Data Handling        ][D4120]
 - 5-3. [Excel Data Visualization   ][D4130]
 <br/><br/>
-
+ 
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
