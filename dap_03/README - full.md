@@ -43,9 +43,7 @@
 - 5-2. [Excel Data Handling        ][D4120]
 - 5-3. [Excel Data Visualization   ][D4130]
 <br/><br/>
-
 - 6-1. [MatplotLib.Pyplot      ][B3300]
-
 - <font color='#CC0000'> [미션] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3302]
 <br/><br/>
 - 6-2. [Basic Chart            ][B3310]
