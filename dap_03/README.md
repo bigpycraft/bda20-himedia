@@ -38,6 +38,13 @@
 - 5-3. [Excel Data Visualization   ][D4130]
 <br/><br/>
  
+- 6-1. [MatplotLib.Pyplot      ][B3300]
+- <font color='#CC0000'> [미션] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301]
+<br/><br/>
+- 6-2. [Basic Chart            ][B3310]
+- 6-3. [Color & Style          ][B3320]
+- 6-4. [Annotation             ][B3330]
+- 6-5. [Seabron                ][B3340]
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
@@ -68,6 +75,7 @@
 [B3330]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_B333_Matplotlib_Annotattion.html   "Go A3330"
 [B3340]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_B334_Matplotlib_Seaborn.html       "Go A3340"
 [B3301]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz_mission.html  "Go B3301"
+[B3302]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz.html  "Go B3302"
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
 [D4120]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D412_Excel_Data_Handle.html                       "Go D4120"
