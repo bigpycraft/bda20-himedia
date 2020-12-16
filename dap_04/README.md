@@ -16,9 +16,9 @@
 
 ## Data Processing and Analysis
 
-- <font color='#CC0000'> [미션] 오픈데이터분석, Kaggle</font> ─────▶ [[클릭]][D4300]
+- <font color='#CC0000'> [미션] 오픈데이터분석, Kaggle.com</font> ─────▶ [[클릭]][D4300]
 <br/><br/>
-- <font color='#CC0000'> [미션] 공공데이터분석 </font> ─────▶ [[클릭]][D4530]
+- <font color='#CC0000'> [미션] 공공데이터분석, Data.go.kr </font> ─────▶ [[클릭]][D4530]
 - 9-1. [Public Data Potal 1                     ][D4510]
 - 9-2. [Public Data Potal 2                     ][D4520]
 
