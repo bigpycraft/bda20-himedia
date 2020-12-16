@@ -17,6 +17,11 @@
 ## Data Processing and Analysis
 
 - <font color='#CC0000'> [미션] 오픈데이터분석, Kaggle</font> ─────▶ [[클릭]][D4300]
+<br/><br/>
+- <font color='#CC0000'> [미션] 공공데이터분석 </font> ─────▶ [[클릭]][D4530]
+- 9-1. [Public Data Potal 1                     ][D4510]
+- 9-2. [Public Data Potal 2                     ][D4520]
+
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
 [D4120]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D412_Excel_Data_Handle.html                       "Go D4120"
