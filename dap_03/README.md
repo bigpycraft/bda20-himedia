@@ -39,6 +39,7 @@
 <br/><br/>
 - 6-1. [MatplotLib.Pyplot      ][B3300]
 - <font color='#CC0000'> [미션] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301]
+- <font color='#CC0000'> [결과] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3302]
 <br/><br/>
 - 6-2. [Basic Chart            ][B3310]
 - 6-3. [Color & Style          ][B3320]
