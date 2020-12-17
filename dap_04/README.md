@@ -20,8 +20,8 @@
 - 8-1. [Analytical Approach : General           ][D4310]
 - 8-2. [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
-- 9-1. [Public Data Potal 1                     ][D4510]
 - <font color='#CC0000'> [미션] 공공데이터분석, Data.go.kr </font> ─────▶ [[클릭]][D4530]
+- 9-1. [Public Data Potal 1                     ][D4510]
 
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
