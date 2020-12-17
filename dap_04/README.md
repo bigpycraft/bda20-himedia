@@ -21,7 +21,6 @@
 - 8-2. [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
 - 9-1. [Public Data Potal 1                     ][D4510]
-- 9-2. [Public Data Potal 2                     ][D4520]
 - <font color='#CC0000'> [미션] 공공데이터분석, Data.go.kr </font> ─────▶ [[클릭]][D4530]
 
 
