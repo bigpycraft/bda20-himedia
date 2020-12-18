@@ -24,6 +24,10 @@
 - 9-1. [Public Data Potal 1                     ][D4510]
 - 9-2. [Public Data Potal 2                     ][D4520]
 - 9-3. [Public Data Potal 3                     ][D4532]
+<br/><br/>
+- 10-1. [Folium for Map                         ][D4600]
+- 10-2. [Seoul Stat 1                           ][D4610]
+- 10-3. [Seoul Stat 2                           ][D4720]
 
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"

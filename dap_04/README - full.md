@@ -20,9 +20,9 @@
 - 8-1. [Analytical Approach : General           ][D4310]
 - 8-2. [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
+- <font color='#CC0000'> [미션] 공공데이터분석, Data.go.kr </font> ─────▶ [[클릭]][D4530]
 - 9-1. [Public Data Potal 1                     ][D4510]
 - 9-2. [Public Data Potal 2                     ][D4520]
-- <font color='#CC0000'> [미션] 공공데이터분석, Data.go.kr </font> ─────▶ [[클릭]][D4530]
 - 9-3. [Public Data Potal 3                     ][D4532]
 <br/><br/>
 - 10-1. [Folium for Map                         ][D4600]
