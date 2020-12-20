@@ -20,11 +20,9 @@
 - 11-2. [Web Scraping Basic2           ][E5112]
 - 11-3. [Web Scraping Basic3           ][E5113]
 <br/><br/>
-- Quiz1. [Web Scraping Practice        ][E5200]
+- Quiz1. [Web Scraping Practice A      ][E5200]
 <br/><br/>
-- Quiz2. [Web Scraping Practice        ][E5300]
-<br/><br/>
-- Quiz3. [Web Scraping Practice        ][E5400]
+- Quiz2. [Web Scraping Practice B      ][E5300]
 <br/><br/>
 
 
