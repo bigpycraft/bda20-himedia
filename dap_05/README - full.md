@@ -19,8 +19,11 @@
 - 11-1. [Web Scraping Basic1           ][E5111]
 - 11-2. [Web Scraping Basic2           ][E5112]
 - 11-3. [Web Scraping Basic3           ][E5113]
-- 11-4. [Web Scraping Basic4           ][E5114]
 <br/><br/>
+
+
+
+<!--
 - Quiz1. [Web Scraping Practice        ][E5200]
 <br/><br/>
 - 12-1. [Web Crawling - 50 Best 1/2    ][E5310]
@@ -36,7 +39,7 @@
 <br/><br/>
 - Quiz4. [Selenium Crawling Practice C ][E5800]
 <br/><br/>
-
+-->
 
 [E5100]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E510_Web_Scraping_Basics_ver2.html        "Go E4110"
 [E5111]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_1.html            "Go E4120"
