@@ -21,7 +21,7 @@
 - 11-3. [Web Scraping Basic3           ][E5113]
 <br/><br/>
 - Quiz1. [Web Scraping Practice A      ][E5200]
-- 12-1. [Web Crawling - Music Ranking  ]
+- 12-1.  <font color='#CCCCCC'>Web Crawling - Music Ranking </font> 
 - 12-2. [Web Crawling - Movie Ranking  ][E5220]
 <br/><br/>
 - Quiz2. [Web Scraping Practice B      ][E5300]
