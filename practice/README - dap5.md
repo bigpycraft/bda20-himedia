@@ -21,8 +21,8 @@
 - 11-3. [Web Scraping Basic3           ][E5113]
 <br/><br/>
 - Quiz1. [Web Scraping Practice A      ][E5200]
-- 12-1. [Web Crawling - Ranking        ][E4240]
-- 12-2. [Web Crawling - Ranking        ][E4250]
+- 12-1. [Web Crawling - Music Ranking  ]
+- 12-2. [Web Crawling - Movie Ranking  ][E5220]
 <br/><br/>
 - Quiz2. [Web Scraping Practice B      ][E5300]
 - 12-3. [Web Crawling - 50 Best 1/2    ][E5310]
@@ -39,16 +39,16 @@
 <br/><br/>
 
 
-[E5100]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E510_Web_Scraping_Basics_ver2.html        "Go E4110"
-[E5111]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_1.html            "Go E4120"
-[E5112]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_2.html            "Go E4130"
-[E5113]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_3.html            "Go E4200"
-[E5114]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_4.html            "Go E4210"
-[E5115]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_5.html            "Go E4220"
+[E5100]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E510_Web_Scraping_Basics_ver2.html        "Go E5100"
+[E5111]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_1.html            "Go E5111"
+[E5112]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_2.html            "Go E5112"
+[E5113]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_3.html            "Go E5113"
+[E5114]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_4.html            "Go E5114"
+[E5115]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_5.html            "Go E5115"
 
-[E5200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E520_Web_Scraping_Quiz.html               "Go E4230"
-[E5210]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E521_Crawling_Music_Ranking1_ver4.html    "Go E4240"
-[E5220]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E522_Crawling_Movie_Ranking2_ver5.html    "Go E4250"
+[E5200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E520_Web_Scraping_Quiz.html               "Go E5200"
+[E5210]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E521_Crawling_Music_Ranking1_ver4.html    "Go E5210"
+[E5220]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E522_Crawling_Movie_Ranking2_ver5.html    "Go E5220"
 
 [E5300]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E530_Crawling_ChicagoMag_Quiz.html        "Go E5300"
 [E5310]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E531_Crawling_ChicagoMag_Main.html        "Go E5310"
