@@ -28,28 +28,6 @@
 <br/><br/>
 
 
-
-<!--
-- Quiz1. [Web Scraping Practice A      ][E5200]
-- 12-1. [Web Crawling - Ranking        ][E4240]
-- 12-2. [Web Crawling - Ranking        ][E4250]
-<br/><br/>
-- Quiz2. [Web Scraping Practice B      ][E5300]
-- 12-3. [Web Crawling - 50 Best 1/2    ][E5310]
-- 12-4. [Web Crawling - 50 Best 2/2    ][E5320]
-<br/><br/>
-- Quiz3. [Web Scraping Practice C      ][E5400]
-- 13-5. [Web Crawling - McDonalds Idx  ][E5410]
-- 13-6. [Web Crawling - WikiPedia      ][E5510]
-<br/><br/>
-<br/><br/>
-- 13-1. [URL Parsing Tip               ][E5600]
-- 13-2. [How to use Selenium           ][E5700]
-<br/><br/>
-- Quiz4. [Selenium Crawling Practice C ][E5800]
-<br/><br/>
--->
-
 [E5100]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E510_Web_Scraping_Basics_ver2.html        "Go E4110"
 [E5111]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_1.html            "Go E4120"
 [E5112]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E511_Web_Scraping_Basic_2.html            "Go E4130"
