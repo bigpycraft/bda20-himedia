@@ -25,16 +25,15 @@
 - 12-2. [Web Crawling - Movie Ranking v2 ][E5221]
 <br/><br/>
 - Quiz2. [Web Scraping Practice B      ][E5300]
-- 12-3. [Web Crawling - 50 Best 1/2    ][E5310]
-- 12-4. [Web Crawling - 50 Best 2/2    ][E5320]
-<br/><br/>
-- 13-1. [How to use Selenium           ][E5700]
+- 13-1. [Web Crawling - 50 Best 1/2    ][E5310]
+- 13-2. [Web Crawling - 50 Best 2/2    ][E5320]
 <br/><br/>
 - Quiz3. [Selenium Crawling Practice C ][E5800]
+- 14-1. [How to use Selenium           ][E5700]
 <br/><br/>
 
 <!--
-- 14-1. [Selenium Crawling - Final     ][E5810]
+- 14-2. [Selenium Crawling - Final     ][E5810]
 <br/><br/>
 -->
 
