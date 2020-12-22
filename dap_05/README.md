@@ -28,8 +28,10 @@
 - 13-1. [Web Crawling - 50 Best 1/2    ][E5310]
 - 13-2. [Web Crawling - 50 Best 2/2    ][E5320]
 <br/><br/>
-- Quiz3. [Selenium Crawling Practice C ][E5800]
-- 14-1. [How to use Selenium           ][E5700]
+- Quiz3. [Web Scraping Practice C      ][E5300]
+<br/><br/>
+- Quiz4. [Selenium Crawling Practice D ][E5800]
+- 15-1. [How to use Selenium           ][E5700]
 <br/><br/>
 
 <!--
@@ -55,7 +57,8 @@
 
 [E5400]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E540_Seoul_McDonalds_idx_Quiz.html          "Go E5400"
 [E5410]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E541_Seoul_McDonalds_idx_ver4.html          "Go E5410"
-[E5510]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi.html                      "Go E5510"
+[E5510]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi_quiz.html                 "Go E5510"
+[E5511]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi.html                      "Go E5511"
 
 [E5600]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E560_WebCollecting.html                     "Go E5600"
 [E5700]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E570_Selenium_WebDriver_ver20.html          "Go E5700"
