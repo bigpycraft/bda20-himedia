@@ -57,7 +57,7 @@
 
 [E5400]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E540_Seoul_McDonalds_idx_Quiz.html          "Go E5400"
 [E5410]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E541_Seoul_McDonalds_idx_ver4.html          "Go E5410"
-[E5510]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi_quiz.html                 "Go E5510"
+[E5510]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi_Quiz.html                 "Go E5510"
 [E5511]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E551_Wiki_Vivaldi.html                      "Go E5511"
 
 [E5600]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/bda20-himedia/blob/master/notebook/html/BPC_E560_WebCollecting.html                     "Go E5600"
